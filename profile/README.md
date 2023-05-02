@@ -1,4 +1,4 @@
-<img src="polaris-slo-cloud.png">
+![alt text](https://raw.githubusercontent.com/polaris-slo-cloud/.github/main/profile/polaris-slo-cloud.png)
 
 _Bringing the starlight through the Cloud to the Edge._ We hope you enjoy the ride! :rocket:
 
