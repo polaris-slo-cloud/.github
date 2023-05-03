@@ -30,10 +30,12 @@ _Bringing the starlight through the Cloud to the Edge._ We hope you enjoy the ri
 
 ### Contributors :sparkles:
 
-<a href="https://github.com/tommazzo89"><img src="https://avatars.githubusercontent.com/u/11061338?v=4" width="100px;" alt="Thomas Pusztai"/></a>
-<a href="https://github.com/phip123"><img src="https://avatars.githubusercontent.com/u/17198306?v=4" width="100px;" alt="phip123"/></a>
-<a href="https://github.com/keniack"><img src="https://avatars.githubusercontent.com/u/17731158?v=4" width="100px;" alt="Cynthia Marcelino"/></a>
-<a href="https://github.com/AndreaMorichetta"><img src="https://avatars.githubusercontent.com/u/18530257?v=4" width="100px;" alt="Andrea Morichetta"/></a>
-<a href="https://github.com/vikcas"><img src="https://avatars.githubusercontent.com/u/10379583?v=4" width="100px;" alt="Victor Casamayor"/></a>
-<a href="https://github.com/stefannastic"><img src="https://avatars.githubusercontent.com/u/2278389?v=4" width="100px;" alt="Stefan Nastic"/></a>
-
+<a href="https://github.com/polaris-slo-cloud/polaris/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=polaris-slo-cloud/polaris" />
+</a>
+<a href="https://github.com/polaris-slo-cloud/containerd-shim-cwasi/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=polaris-slo-cloud/containerd-shim-cwasi" />
+</a>
+<a href="https://github.com/polaris-slo-cloud/polaris-ai/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=polaris-slo-cloud/polaris-ai" />
+</a>
