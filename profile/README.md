@@ -25,7 +25,7 @@ _Bringing the starlight through the Cloud to the Edge._ We hope you enjoy the ri
 
 * [Polaris AI](https://github.com/polaris-slo-cloud/polaris-ai): A set of AI-enabled tools to ease and automate the management of SLO-aware clouds.
 
-#### Runtime
+#### Serverless Runtime
 * [Cwasi Shim](https://github.com/polaris-slo-cloud/containerd-shim-cwasi): Lightweight OCI runtime shim for the Edge-Cloud continuum 
 
 ### Contributors :sparkles:
