@@ -7,7 +7,7 @@ _Bringing the starlight through the Cloud to the Edge._ We hope you enjoy the ri
 * :alarm_clock: [Schedulers](#schedulers)
 * :bar_chart: [SLO](#slo) 
 * :crystal_ball: [AI](#ai) 
-* :hourglass_flowing_sand: [Runtime](#runtime) 
+* :hourglass_flowing_sand: [Serverless Runtime](#serverless-runtime) 
 
 ### Repository guides :pushpin:
 
