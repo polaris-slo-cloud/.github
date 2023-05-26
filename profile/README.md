@@ -18,8 +18,9 @@ _Bringing the starlight through the Cloud to the Edge._ We hope you enjoy the ri
 
 #### SLO
 
-* [Polaris SLO Framework](https://github.com/polaris-slo-cloud/polaris-slo-framework): The Polaris SLO Framework brings high-level Service Level Objectives and complex elasticity strategies to the Edge-Cloud continuum. 
-* [Polaris Demos](https://github.com/polaris-slo-cloud/polaris-demos): Demo implementations using the Polaris SLO Framework 
+* [Polaris SLO Framework](https://github.com/polaris-slo-cloud/polaris-slo-framework): The Polaris SLO Framework brings high-level Service Level Objectives and complex elasticity strategies to the Edge-Cloud continuum.
+* [Polaris UI](https://github.com/polaris-slo-cloud/polaris-ui): A modern user interface for managing SLOs with the Polaris SLO Framework.
+* [Polaris Demos](https://github.com/polaris-slo-cloud/polaris-demos): Demo implementations using the Polaris SLO Framework.
 
 #### AI
 
