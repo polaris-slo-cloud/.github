@@ -26,7 +26,7 @@ _Bringing the starlight through the Cloud to the Edge._ We hope you enjoy the ri
 * [Intelligent Sampling](https://github.com/polaris-slo-cloud/intelligent-sampling): A method to improve node sample quality for a large-scale, distributed, and heterogeneous infrastructure.
 * [PolarisProfiler](https://github.com/polaris-slo-cloud/Profiling): Set of methods and tools to create workload profiles. The profiles can be associated to new workload using static, apriori, metadata.
 * [Predictive Monitoring](https://github.com/polaris-slo-cloud/predictive-monitoring): Neural network models for predicting high-level SLOs from low-level metrics.
-* [Polaris AI](https://github.com/polaris-slo-cloud/polaris-ai): A set of AI-enabled tools to ease and automate the management of SLO-aware clouds.
+* [Polaris AI](https://github.com/polaris-slo-cloud/polaris-ai): A set of AI-enabled tools to ease and automate the management of SLO-aware clouds. (**Support discontinued**. The single projects have been moved to their own repositories mentioned above).
 #### Serverless Runtime
 * [Cwasi Shim](https://github.com/polaris-slo-cloud/containerd-shim-cwasi): Lightweight OCI runtime shim for the Edge-Cloud continuum 
 
