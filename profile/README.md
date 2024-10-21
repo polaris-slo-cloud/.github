@@ -13,8 +13,9 @@ _Bringing the starlight through the Cloud to the Edge._ We hope you enjoy the ri
 
 #### Schedulers
 
-* [Vela Scheduler](https://github.com/polaris-slo-cloud/vela-scheduler): Orchestrator-independent Distributed Scheduler for the Edge-Cloud continuum 
-* [Polaris Scheduler](https://github.com/polaris-slo-cloud/polaris-scheduler): SLO-aware Kubernetes scheduler for the Edge and Cloud 
+* [Vela Scheduler](https://github.com/polaris-slo-cloud/vela-scheduler): Orchestrator-independent Distributed Scheduler for the Edge-Cloud Continuum 
+* [Polaris Scheduler](https://github.com/polaris-slo-cloud/polaris-scheduler): SLO-aware Kubernetes scheduler for the Edge and Cloud
+* [HyperDrive Scheduler](https://github.com/polaris-slo-cloud/hyper-drive): SLO-aware scheduler simulator for the Edge-Cloud-Space 3D Continuum
 
 #### SLO
 
