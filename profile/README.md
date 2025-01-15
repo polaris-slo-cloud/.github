@@ -28,18 +28,20 @@ _Bringing the starlight through the Cloud to the Edge._ We hope you enjoy the ri
 * [PolarisProfiler](https://github.com/polaris-slo-cloud/Profiling): Set of methods and tools to create workload profiles. The profiles can be associated to new workload using static, apriori, metadata.
 * [Predictive Monitoring](https://github.com/polaris-slo-cloud/predictive-monitoring): Neural network models for predicting high-level SLOs from low-level metrics.
 * [Polaris AI](https://github.com/polaris-slo-cloud/polaris-ai): A set of AI-enabled tools to ease and automate the management of SLO-aware clouds. (**Support discontinued**. The single projects have been moved to their own repositories mentioned above).
-#### Serverless Runtime
+#### Serverless 
 * [Cwasi Shim](https://github.com/polaris-slo-cloud/containerd-shim-cwasi): Lightweight OCI runtime shim for the Edge-Cloud continuum
-* [Truffle](https://github.com/polaris-slo-cloud/truffle): A proxy for inter-function communication in the Serverless Edge-Cloud continuum
+* [Truffle](https://github.com/polaris-slo-cloud/truffle): Efficient Data Passing for Serverless Workflows in Edge-Cloud continuum
+* [Goldfish](https://github.com/polaris-slo-cloud/goldfish): Serverless Actors with Short-Term Memory State for the Edge-Cloud Continuum
+* [Skylark](https://github.com/polaris-slo-cloud/skylark): Stateful Serverless Functions for the Edge-Cloud-Space 3D-Continuum
 
 ### Contributors :sparkles:
 
 <a href="https://github.com/polaris-slo-cloud/polaris/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=polaris-slo-cloud/polaris" />
 </a>
-<a href="https://github.com/polaris-slo-cloud/containerd-shim-cwasi/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=polaris-slo-cloud/containerd-shim-cwasi" />
-</a>
 <a href="https://github.com/polaris-slo-cloud/polaris-ai/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=polaris-slo-cloud/polaris-ai" />
+</a>
+<a href="https://github.com/polaris-slo-cloud/goldfish/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=polaris-slo-cloud/goldfish" />
 </a>
