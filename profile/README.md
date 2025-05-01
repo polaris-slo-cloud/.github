@@ -37,11 +37,23 @@ _Bringing the starlight through the Cloud to the Edge._ We hope you enjoy the ri
 ### Contributors :sparkles:
 
 <a href="https://github.com/polaris-slo-cloud/polaris/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=polaris-slo-cloud/polaris" />
+  <img src="https://contrib.rocks/image?repo=polaris-slo-cloud/polaris&max=6" />
 </a>
 <a href="https://github.com/polaris-slo-cloud/polaris-ai/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=polaris-slo-cloud/polaris-ai" />
 </a>
-<a href="https://github.com/polaris-slo-cloud/goldfish/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=polaris-slo-cloud/goldfish" />
+<a href="https://github.com/polaris-slo-cloud/cosmos/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=polaris-slo-cloud/cosmos" />
 </a>
+<a href="https://github.com/polaris-slo-cloud/goldfish/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=polaris-slo-cloud/goldfish&max=1" />
+</a>
+<a href="https://github.com/polaris-slo-cloud/databelt/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=polaris-slo-cloud/databelt&max=1" />
+</a>
+<a href="https://github.com/polaris-slo-cloud/wasmrun/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=polaris-slo-cloud/wasmrun&max=1" />
+</a>
+
+
+
