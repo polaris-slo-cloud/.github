@@ -54,6 +54,20 @@ _Bringing the starlight through the Cloud to the Edge._ We hope you enjoy the ri
 <a href="https://github.com/polaris-slo-cloud/wasmrun/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=polaris-slo-cloud/wasmrun&max=1" />
 </a>
+<a href="https://github.com/polaris-slo-cloud/fedccl/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=polaris-slo-cloud/fedccl&max=1" />
+</a>
+<a href="https://github.com/polaris-slo-cloud/vate/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=polaris-slo-cloud/vate&max=1" />
+</a>
+<a href="https://github.com/polaris-slo-cloud/miso/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=polaris-slo-cloud/miso&max=1" />
+</a>
+<a href="https://github.com/polaris-slo-cloud/slo-compass/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=polaris-slo-cloud/slo-compass&max=1" />
+</a>
+
+
 
 
 
